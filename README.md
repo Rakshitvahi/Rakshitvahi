@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Software+Engineer;I+am+a+Product+Enthusiast;I+am+a+Scrum+Master)](https://git.io/typing-svg)
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Calibiri&duration=2500&pause=500&color=000000&center=true&width=435&lines=I+am+a+Software+Engineer;I+am+a+Product+Enthusiast;I+am+a+Scrum+Master)](https://git.io/typing-svg)
+</p>
 ---
 
 I'm **Rakshit Vahi** – a passionate **Software Engineer** and **Product Manager in training** with extensive experience in **agile methodologies**, **backend development**, and **CI/CD automation**.

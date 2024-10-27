@@ -1,3 +1,9 @@
+<p align="center">
+  <span id="intro"></span>
+</p>
+
+---
+
 I'm **Rakshit Vahi** – a passionate **Software Engineer** and **Product Manager in training** with extensive experience in **agile methodologies**, **backend development**, and **CI/CD automation**.
 
 ---
@@ -88,3 +94,61 @@ I'm always open to connecting with like-minded professionals and discussing oppo
     <button style="background-color:#0077B5;color:white;padding:10px 20px;border-radius:5px;border:none;font-size:16px;">LinkedIn</button>
   </a>
   <a href="mailto:vahi.r@northeastern.edu" target="_blank" style="text-decoration:none;">
+
+<style>
+  /* Typing Animation */
+  #intro::after {
+    content: '|';
+    animation: blink 0.7s infinite;
+  }
+  
+  @keyframes blink {
+    0%, 100% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0;
+    }
+  }
+  
+  #intro {
+    font-size: 24px;
+    font-weight: bold;
+    animation: typing 4s steps(30, end), erase 4s steps(30, end) 4s, typing 4s steps(30, end) 8s;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 3px solid;
+  }
+  
+  @keyframes typing {
+    from {
+      width: 0;
+    }
+    to {
+      width: 100%;
+    }
+  }
+  
+  @keyframes erase {
+    from {
+      width: 100%;
+    }
+    to {
+      width: 0;
+    }
+  }
+</style>
+
+<script>
+  const texts = ["I am a Software Engineer", "I am a Product Enthusiast", "I am a Scrum Master"];
+  let index = 0;
+  const intro = document.getElementById("intro");
+
+  function typeText() {
+    intro.textContent = texts[index];
+    index = (index + 1) % texts.length;
+    setTimeout(typeText, 4000);
+  }
+
+  typeText();
+</script>

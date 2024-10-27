@@ -1,0 +1,14 @@
+<svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
+  <text x="10" y="35" font-size="24" fill="black">I am a Software Engineer</text>
+  <text x="10" y="60" font-size="24" fill="black">I am a Product Enthusiast</text>
+  <text x="10" y="85" font-size="24" fill="black">I am a Scrum Master</text>
+  <style>
+    text {
+      animation: typing 3s steps(40, end) infinite alternate;
+    }
+    @keyframes typing {
+      from { width: 0; }
+      to { width: 100%; }
+    }
+  </style>
+</svg>

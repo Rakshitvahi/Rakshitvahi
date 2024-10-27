@@ -1,5 +1,6 @@
+
 <p align="center">
-  <span id="intro"></span>
+  <img src="https://raw.githubusercontent.com/<username>/<repository>/main/typing_animation.svg" alt="Typing Animation">
 </p>
 
 ---

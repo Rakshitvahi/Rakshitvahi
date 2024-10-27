@@ -1,14 +1,31 @@
 <svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
-  <text x="10" y="35" font-size="24" fill="black">I am a Software Engineer</text>
-  <text x="10" y="60" font-size="24" fill="black">I am a Product Enthusiast</text>
-  <text x="10" y="85" font-size="24" fill="black">I am a Scrum Master</text>
   <style>
-    text {
-      animation: typing 3s steps(40, end) infinite alternate;
+    .text {
+      font: bold 24px sans-serif;
+      fill: #333;
+      white-space: pre;
+    }
+    .cursor {
+      font: bold 24px sans-serif;
+      fill: #333;
+      animation: blink 0.7s infinite;
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
     }
     @keyframes typing {
       from { width: 0; }
       to { width: 100%; }
     }
+    .typing-text-1 {
+      animation: typing 4s steps(30, end) infinite alternate;
+      overflow: hidden;
+      border-right: 3px solid;
+      white-space: nowrap;
+    }
   </style>
+  <text x="10" y="40" class="text typing-text-1">I am a Software Engineer</text>
+  <text x="10" y="70" class="text typing-text-1">I am a Product Enthusiast</text>
+  <text x="10" y="100" class="text typing-text-1">I am a Scrum Master</text>
 </svg>

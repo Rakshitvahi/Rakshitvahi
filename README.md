@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Rakshitvahi/Rakshitvahi/blob/main/typing_animation.svg" alt="Typing Animation">
+  <span id="intro"></span>
 </p>
 
 ---

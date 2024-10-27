@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 🏄‍♂️ Forrest Knight
+# ☼ Rakshit Vahi
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 

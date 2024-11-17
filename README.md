@@ -26,33 +26,25 @@
 
 - **Lead Graduate Assistant**  
   *Northeastern University*  
-  <sub>Jun 2023 – Present</sub>  
-  Managed academic programs and technical support.
 
 ---
 
 - **Software Engineer**  
-  *GE Healthcare, India*  
-  <sub>Oct 2021 – Jul 2022</sub>  
-  Developed microservices and optimized CI/CD pipelines.
+  *GE Healthcare*  
 
 ---
 
 - **Software Engineering Specialist**  
-  *GE Healthcare, India*  
-  <sub>Sep 2019 – Oct 2021</sub>  
-  Delivered scalable backend solutions and improved code coverage.
+  *GE Healthcare*  
 
 ---
 
 ### 🎓 Education
 
 - **Master of Science in Engineering Management**  
-  *Northeastern University*  
-  <sub>Expected Dec 2024</sub>
+  *Northeastern University* 
 
 ---
 
 - **Bachelor of Engineering in Computer Science**  
-  *PES Institute of Technology, India*  
-  <sub>July 2019</sub>
+  *PES University*  

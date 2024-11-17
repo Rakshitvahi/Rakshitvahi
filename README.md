@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Banner.png" alt="Hero Image">
+  <img src="assets/Banner.png" alt="Hero Image" width="1200" height="400">
 </p>
 
 # 👋 Welcome to My GitHub Profile!

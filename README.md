@@ -1,78 +1,76 @@
-<p align="center">
-  <img src="assets/Banner.png" alt="Hero Image" width="100%">
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rakshit Vahi Portfolio</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Hero Section -->
+  <header class="hero">
+    <div class="container">
+      <div class="typing-effect">
+        <h1>I am <span id="typing-text"></span></h1>
+      </div>
+    </div>
+  </header>
 
-<!-- Menu Bar -->
-<div align="center" style="background-color: black; padding: 10px;">
-  <a href="#-work-experience" style="color: white; text-decoration: none; margin: 20px; font-size: 16px;">🏢 Work Experience</a>
-  <a href="#-education" style="color: white; text-decoration: none; margin: 20px; font-size: 16px;">🎓 Education</a>
-  <a href="#-contact" style="color: white; text-decoration: none; margin: 20px; font-size: 16px;">📞 Contact</a>
-</div>
+  <!-- Contact Section -->
+  <section id="contact" class="contact">
+    <div class="container">
+      <h2>📞 Contact Me</h2>
+      <div class="contact-buttons">
+        <a href="https://linkedin.com/in/rakshit-vahi" target="_blank" class="btn">LinkedIn</a>
+        <a href="mailto:vahi.r@northeastern.edu" class="btn">Email</a>
+        <a href="https://github.com/RakshitVahi" target="_blank" class="btn">GitHub</a>
+      </div>
+    </div>
+  </section>
 
----
+  <!-- Work Experience Section -->
+  <section id="work-experience" class="work-experience">
+    <div class="container">
+      <h2>🏢 Work Experience</h2>
+      <div class="timeline">
+        <div class="timeline-item">
+          <h3>Lead Graduate Assistant</h3>
+          <p>Northeastern University</p>
+        </div>
+        <div class="timeline-item">
+          <h3>Software Engineer</h3>
+          <p>GE Healthcare, India</p>
+        </div>
+        <div class="timeline-item">
+          <h3>Software Engineering Specialist</h3>
+          <p>GE Healthcare, India</p>
+        </div>
+      </div>
+    </div>
+  </section>
 
-<a id="work-experience"></a>
-## 🏢 Work Experience
+  <!-- Education Section -->
+  <section id="education" class="education">
+    <div class="container">
+      <h2>🎓 Education</h2>
+      <div class="timeline">
+        <div class="timeline-item">
+          <h3>Master of Science in Engineering Management</h3>
+          <p>Northeastern University</p>
+        </div>
+        <div class="timeline-item">
+          <h3>Bachelor of Engineering in Computer Science</h3>
+          <p>PES Institute of Technology, India</p>
+        </div>
+      </div>
+    </div>
+  </section>
 
-<table>
-  <tr>
-    <td>🚀</td>
-    <td>
-      <b>Lead Graduate Assistant</b>  
-      <i>Northeastern University</i>  
-    </td>
-  </tr>
-  <tr>
-    <td>💻</td>
-    <td>
-      <b>Software Engineer</b>  
-      <i>GE Healthcare, India</i>  
-    </td>
-  </tr>
-  <tr>
-    <td>🛠️</td>
-    <td>
-      <b>Software Engineering Specialist</b>  
-      <i>GE Healthcare, India</i>  
-    </td>
-  </tr>
-</table>
+  <!-- Footer -->
+  <footer class="footer">
+    <p>© 2024 Rakshit Vahi. All rights reserved.</p>
+  </footer>
 
----
-
-<a id="education"></a>
-## 🎓 Education
-
-<table>
-  <tr>
-    <td>🎓</td>
-    <td>
-      <b>Master of Science in Engineering Management</b>  
-      <i>Northeastern University</i>  
-    </td>
-  </tr>
-  <tr>
-    <td>🏫</td>
-    <td>
-      <b>Bachelor of Engineering in Computer Science</b>  
-      <i>PES Institute of Technology, India</i>  
-    </td>
-  </tr>
-</table>
-
----
-
-<a id="contact"></a>
-## 📞 Contact
-
-<div align="center">
-  <a href="https://linkedin.com/in/rakshit-vahi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:vahi.r@northeastern.edu" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Say%20Hi!-blue?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-  <a href="https://github.com/RakshitVahi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Visit%20My%20Repos-black?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-</div>
+  <script src="script.js"></script>
+</body>
+</html>

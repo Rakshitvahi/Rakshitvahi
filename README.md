@@ -1,13 +1,11 @@
 <p align="center">
   <img src="assets/Banner.png" alt="Hero Image" style="max-width:100%; height:auto;">
 </p>
-
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=000000&center=true&width=435&lines=I+am+a+Software+Engineer;I+am+a+Product+Enthusiast;I+am+a+Scrum+Master" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=000000&center=true&width=435&lines=I+am+a+Software+Engineer;I+am+a+Product+Enthusiast;I+am+a+Scrum+Master" alt="Typing SVG">
   </a>
 </div>
-
 ---
 
 I'm **Rakshit Vahi** – a passionate **Software Engineer** and **Product Manager in training** with extensive experience in **agile methodologies**, **backend development**, and **CI/CD automation**.

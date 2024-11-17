@@ -24,55 +24,41 @@
 
 ---
 
-<div align="center">
-<h2>📍 Timeline</h2>
-</div>
+## 📍 Timeline
 
-<table>
-  <tr>
-    <!-- Work Experience Section -->
-    <td valign="top" width="50%">
-      <h3 align="center">🏢 Work Experience</h3>
-      <ul>
-        <li>
-          <strong>Lead Graduate Assistant</strong> <br>
-          Northeastern University <br>
-          <em>Jun 2023 – Present</em> <br>
-          <small>Managed academic programs and technical support.</small>
-        </li>
-        <hr>
-        <li>
-          <strong>Software Engineer</strong> <br>
-          GE Healthcare, India <br>
-          <em>Oct 2021 – Jul 2022</em> <br>
-          <small>Developed microservices and optimized CI/CD pipelines.</small>
-        </li>
-        <hr>
-        <li>
-          <strong>Software Engineering Specialist</strong> <br>
-          GE Healthcare, India <br>
-          <em>Sep 2019 – Oct 2021</em> <br>
-          <small>Delivered scalable backend solutions and improved code coverage.</small>
-        </li>
-      </ul>
-    </td>
+---
 
-    <!-- Education Section -->
-    <td valign="top" width="50%">
-      <h3 align="center">🎓 Education</h3>
-      <ul>
-        <li>
-          <strong>Master of Science in Engineering Management</strong> <br>
-          Northeastern University <br>
-          <em>Expected Dec 2024</em>
-        </li>
-        <hr>
-        <li>
-          <strong>Bachelor of Engineering in Computer Science</strong> <br>
-          PES Institute of Technology, India <br>
-          <em>July 2019</em>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🏢 Work Experience
+
+- **Lead Graduate Assistant**  
+  *Northeastern University*  
+  <sub>**Jun 2023 – Present**</sub>  
+  Managed academic programs and technical support.
+
+---
+
+- **Software Engineer**  
+  *GE Healthcare, India*  
+  <sub>**Oct 2021 – Jul 2022**</sub>  
+  Developed microservices and optimized CI/CD pipelines.
+
+---
+
+- **Software Engineering Specialist**  
+  *GE Healthcare, India*  
+  <sub>**Sep 2019 – Oct 2021**</sub>  
+  Delivered scalable backend solutions and improved code coverage.
+
+---
+
+### 🎓 Education
+
+- **Master of Science in Engineering Management**  
+  *Northeastern University*  
+  <sub>**Expected Dec 2024**</sub>
+
+---
+
+- **Bachelor of Engineering in Computer Science**  
+  *PES Institute of Technology, India*  
+  <sub>**July 2019**</sub>

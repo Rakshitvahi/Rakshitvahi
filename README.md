@@ -1,21 +1,12 @@
 <p align="center">
-  <img src="assets/Black-Technology-LinkedIn-Banner.png" alt="Hero Image" width="100%">
+  <img src="assets/Banner.png" alt="Hero Image" width="100%">
 </p>
 
-<div align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=000000&center=true&width=435&lines=I+am+a+Software+Engineer;I+am+a+Product+Enthusiast;I+am+a+Scrum+Master" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=000000&center=true&width=435&lines=I+am+a+Software+Engineer;I+am+a+Product+Enthusiast;I+am+a+Scrum+Master" alt="Typing SVG">
-  </a>
-</div>
-
----
-
-### 🔗 Menu
-
-<div align="center">
-  <a href="#-work-experience">🏢 Work Experience</a> | 
-  <a href="#-education">🎓 Education</a> | 
-  <a href="#-contact">📞 Contact</a>
+<!-- Menu Bar -->
+<div align="center" style="background-color: black; padding: 10px;">
+  <a href="#-work-experience" style="color: white; text-decoration: none; margin: 20px; font-size: 16px;">🏢 Work Experience</a>
+  <a href="#-education" style="color: white; text-decoration: none; margin: 20px; font-size: 16px;">🎓 Education</a>
+  <a href="#-contact" style="color: white; text-decoration: none; margin: 20px; font-size: 16px;">📞 Contact</a>
 </div>
 
 ---
@@ -29,7 +20,6 @@
     <td>
       <b>Lead Graduate Assistant</b>  
       <i>Northeastern University</i>  
-      Managed academic programs and technical support.
     </td>
   </tr>
   <tr>
@@ -37,7 +27,6 @@
     <td>
       <b>Software Engineer</b>  
       <i>GE Healthcare, India</i>  
-      Developed microservices and optimized CI/CD pipelines.
     </td>
   </tr>
   <tr>
@@ -45,7 +34,6 @@
     <td>
       <b>Software Engineering Specialist</b>  
       <i>GE Healthcare, India</i>  
-      Delivered scalable backend solutions and improved code coverage.
     </td>
   </tr>
 </table>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Black-Technology-LinkedIn-Banner.png" alt="Hero Image" width="100%">
+  <img src="assets/Banner.png" alt="Hero Image" width="100%">
 </p>
 
 <div align="center">

@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="assets/Banner.png" alt="Hero Image" style="max-width:100%; height:auto;">
+  <img src="assets/Black-Technology-LinkedIn-Banner.png" alt="Hero Image" width="100%">
 </p>
+
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=000000&center=true&width=435&lines=I+am+a+Software+Engineer;I+am+a+Product+Enthusiast;I+am+a+Scrum+Master" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=000000&center=true&width=435&lines=I+am+a+Software+Engineer;I+am+a+Product+Enthusiast;I+am+a+Scrum+Master" alt="Typing SVG">
@@ -28,42 +29,34 @@ I'm **Rakshit Vahi** – a passionate **Software Engineer** and **Product Manage
 
 ---
 
-## 🏢 Work Experience & 🎓 Education
+## 📍 Timeline
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+<div align="center">
 
 ### 🏢 Work Experience
 
-- **Lead Graduate Assistant**  
-  Northeastern University  
-  *Jun 2023 – Present*  
+<!-- Work Experience Timeline -->
+- 🟣 **Jun 2023 – Present**  
+  **Lead Graduate Assistant** at Northeastern University  
   - Managed academic programs and technical support.
 
-- **Software Engineer**  
-  GE Healthcare, India  
-  *Oct 2021 – Jul 2022*  
+- 🟣 **Oct 2021 – Jul 2022**  
+  **Software Engineer** at GE Healthcare, India  
   - Developed microservices and optimized CI/CD pipelines.
 
-- **Software Engineering Specialist**  
-  GE Healthcare, India  
-  *Sep 2019 – Oct 2021*  
+- 🟣 **Sep 2019 – Oct 2021**  
+  **Software Engineering Specialist** at GE Healthcare, India  
   - Delivered scalable backend solutions and improved code coverage.
 
-    </td>
-    <td width="50%" valign="top">
+---
 
 ### 🎓 Education
 
-- **Northeastern University**  
-  Master of Science, Engineering Management  
-  *Expected Dec 2024*
+<!-- Education Timeline -->
+- 🔵 **Expected Dec 2024**  
+  **Master of Science** in Engineering Management at Northeastern University  
 
-- **PES Institute of Technology, India**  
-  Bachelor of Engineering, Computer Science  
-  *July 2019*
+- 🔵 **July 2019**  
+  **Bachelor of Engineering** in Computer Science at PES Institute of Technology, India  
 
-    </td>
-  </tr>
-</table>
+</div>

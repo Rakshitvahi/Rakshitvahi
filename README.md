@@ -10,16 +10,15 @@
   <!-- Hero Section -->
   <header class="hero">
     <div class="container">
-      <div class="typing-effect">
-        <h1>I am <span id="typing-text"></span></h1>
-      </div>
+      <h1>Welcome!</h1>
+      <p>I am <span id="typing-text"></span></p>
     </div>
   </header>
 
   <!-- Contact Section -->
-  <section id="contact" class="contact">
+  <section class="contact">
     <div class="container">
-      <h2>📞 Contact Me</h2>
+      <h2>Contact Me</h2>
       <div class="contact-buttons">
         <a href="https://linkedin.com/in/rakshit-vahi" target="_blank" class="btn">LinkedIn</a>
         <a href="mailto:vahi.r@northeastern.edu" class="btn">Email</a>
@@ -28,40 +27,19 @@
     </div>
   </section>
 
-  <!-- Work Experience Section -->
-  <section id="work-experience" class="work-experience">
+  <!-- Card Section -->
+  <section class="cards">
     <div class="container">
-      <h2>🏢 Work Experience</h2>
-      <div class="timeline">
-        <div class="timeline-item">
-          <h3>Lead Graduate Assistant</h3>
-          <p>Northeastern University</p>
-        </div>
-        <div class="timeline-item">
-          <h3>Software Engineer</h3>
-          <p>GE Healthcare, India</p>
-        </div>
-        <div class="timeline-item">
-          <h3>Software Engineering Specialist</h3>
-          <p>GE Healthcare, India</p>
-        </div>
+      <div class="card">
+        <h3>Work Experience</h3>
+        <p><strong>Lead Graduate Assistant</strong><br>Northeastern University</p>
+        <p><strong>Software Engineer</strong><br>GE Healthcare</p>
+        <p><strong>Software Engineering Specialist</strong><br>GE Healthcare</p>
       </div>
-    </div>
-  </section>
-
-  <!-- Education Section -->
-  <section id="education" class="education">
-    <div class="container">
-      <h2>🎓 Education</h2>
-      <div class="timeline">
-        <div class="timeline-item">
-          <h3>Master of Science in Engineering Management</h3>
-          <p>Northeastern University</p>
-        </div>
-        <div class="timeline-item">
-          <h3>Bachelor of Engineering in Computer Science</h3>
-          <p>PES Institute of Technology, India</p>
-        </div>
+      <div class="card">
+        <h3>Education</h3>
+        <p><strong>Master of Science in Engineering Management</strong><br>Northeastern University</p>
+        <p><strong>Bachelor of Engineering in Computer Science</strong><br>PES Institute of Technology</p>
       </div>
     </div>
   </section>

@@ -28,21 +28,21 @@
 ### **Intern Space**
 - **🛠️ Technology**: Project Management Tools, Excel  
 - **📖 Description**: Created a comprehensive project plan, including Gantt charts, WBS, and budgeting.  
-- **🔗 [Repository Link](https://github.com/RakshitVahi/InternSpace)**  
+<!--- **🔗 [Repository Link](https://github.com/RakshitVahi/InternSpace)** -->
 
 ---
 
 ### **Mentor Wise**
 - **🛠️ Technology**: Figma, Product Management  
 - **📖 Description**: Conducted market research and developed product requirement documents. Created interactive prototypes.  
-- **🔗 [Repository Link](https://github.com/RakshitVahi/MentorWise)**  
+<!-- - **🔗 [Repository Link](https://github.com/RakshitVahi/MentorWise)**  -->
 
 ---
 
 ### **Depression Dataset Visualization**
 - **🛠️ Technology**: Python, Tableau  
 - **📖 Description**: Visualized depression datasets using interactive dashboards and violin plots.  
-- **🔗 [Repository Link](https://github.com/RakshitVahi/DepressionVisualization)**  
+<!-- - **🔗 [Repository Link](https://github.com/RakshitVahi/DepressionVisualization)**  -->
 
 ---
 

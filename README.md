@@ -26,7 +26,7 @@
 ## 🚀 **Projects**
 
 ### **Project Management: InternSpace**
-🛠️ <i>Web Apps Development expertise | MS Project | Excel | Budgeting</i>   
+🛠️ Web Apps Development expertise | MS Project | Excel | Budgeting   
 - **📖 Description**: Created a comprehensive project plan, including Gantt charts, WBS, and budgeting.  
 **🔗 [Repository Link](https://github.com/Rakshitvahi/ProjectManagement-InternSpace)**
 

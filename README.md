@@ -40,7 +40,7 @@
 - **🛠️ Technology**: Python, Data Mining Techniques  
 - **📖 Description**:  
   Implemented data mining methodologies to analyze large datasets, uncovering insights through clustering, classification, and association rules.  
-- <p align="center">
+  <p>
     <a href="https://github.com/RakshitVahi/DataMiningProject" target="_blank">
       <img src="https://img.shields.io/badge/Repository-View%20Code-blue?style=for-the-badge&logo=github" alt="Data Mining Repo">
     </a>
@@ -52,7 +52,7 @@
 - **🛠️ Technology**: Python, Tableau  
 - **📖 Description**:  
   Visualized depression datasets using interactive dashboards, violin plots, and time-series analysis for actionable insights.  
-- <p align="center">
+   <p>
     <a href="https://github.com/RakshitVahi/DepressionVisualization" target="_blank">
       <img src="https://img.shields.io/badge/Repository-View%20Code-blue?style=for-the-badge&logo=github" alt="Depression Visualization Repo">
     </a>
@@ -63,7 +63,7 @@
 ### **Project Management: InternSpace**
 🛠️ Web Apps Development expertise | MS Project | Excel | Budgeting   
 - **📖 Description**: Created a comprehensive project plan, including Gantt charts, WBS, and budgeting.  
-- <p align="center">
+  <p>
     <a href="https://github.com/Rakshitvahi/ProjectManagement-InternSpace" target="_blank">
       <img src="https://img.shields.io/badge/Repository-View%20Code-blue?style=for-the-badge&logo=github" alt="Intern Space Repo">
     </a>
@@ -73,14 +73,22 @@
 ### **Mentor Wise**
 - **🛠️ Technology**: Figma, Product Management  
 - **📖 Description**: Conducted market research and developed product requirement documents. Created interactive prototypes.  
-<!-- - **🔗 [Repository Link](https://github.com/RakshitVahi/MentorWise)**  -->
+  <p>
+    <a href="https://github.com/Rakshitvahi/ProjectManagement-InternSpace" target="_blank">
+      <img src="https://img.shields.io/badge/Repository-View%20Code-blue?style=for-the-badge&logo=github" alt="Intern Space Repo">
+    </a>
+  </p>
 
 ---
 
 ### **Depression Dataset Visualization**
 - **🛠️ Technology**: Python, Tableau  
 - **📖 Description**: Visualized depression datasets using interactive dashboards and violin plots.  
-<!-- - **🔗 [Repository Link](https://github.com/RakshitVahi/DepressionVisualization)**  -->
+  <p>
+    <a href="https://github.com/Rakshitvahi/ProjectManagement-InternSpace" target="_blank">
+      <img src="https://img.shields.io/badge/Repository-View%20Code-blue?style=for-the-badge&logo=github" alt="Intern Space Repo">
+    </a>
+  </p>
 
 ---
 

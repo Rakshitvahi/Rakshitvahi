@@ -27,8 +27,8 @@
 ### **Java Repository**
 - **🛠️ Technology**: Java  
 - **📖 Description**:  
-  A collection of coding challenges and problems solved in Java to improve problem-solving and programming skills.  
-- <p>
+  A collection of coding challenges and problems solved in Java to improve problem-solving and programming skills.
+  <p>
     <a href="https://github.com/Rakshitvahi/Java" target="_blank">
       <img src="https://img.shields.io/badge/Repository-View%20Project-blue?style=for-the-badge&logo=github" alt="Java Repo">
     </a>

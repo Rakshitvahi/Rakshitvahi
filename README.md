@@ -24,12 +24,50 @@
 ---
 
 ## 🚀 **Projects**
+### **Java Repository**
+- **🛠️ Technology**: Java  
+- **📖 Description**:  
+  A collection of coding challenges and problems solved in Java to improve problem-solving and programming skills.  
+- <p align="center">
+    <a href="https://github.com/Rakshitvahi/Java" target="_blank">
+      <img src="https://img.shields.io/badge/Repository-View%20Code-blue?style=for-the-badge&logo=github" alt="Java Repo">
+    </a>
+  </p>
+
+---
+
+### **Data Mining Project**
+- **🛠️ Technology**: Python, Data Mining Techniques  
+- **📖 Description**:  
+  Implemented data mining methodologies to analyze large datasets, uncovering insights through clustering, classification, and association rules.  
+- <p align="center">
+    <a href="https://github.com/RakshitVahi/DataMiningProject" target="_blank">
+      <img src="https://img.shields.io/badge/Repository-View%20Code-blue?style=for-the-badge&logo=github" alt="Data Mining Repo">
+    </a>
+  </p>
+
+---
+
+### **Depression Dataset Visualization**
+- **🛠️ Technology**: Python, Tableau  
+- **📖 Description**:  
+  Visualized depression datasets using interactive dashboards, violin plots, and time-series analysis for actionable insights.  
+- <p align="center">
+    <a href="https://github.com/RakshitVahi/DepressionVisualization" target="_blank">
+      <img src="https://img.shields.io/badge/Repository-View%20Code-blue?style=for-the-badge&logo=github" alt="Depression Visualization Repo">
+    </a>
+  </p>
+
+---
 
 ### **Project Management: InternSpace**
 🛠️ Web Apps Development expertise | MS Project | Excel | Budgeting   
 - **📖 Description**: Created a comprehensive project plan, including Gantt charts, WBS, and budgeting.  
-**🔗 [Repository Link](https://github.com/Rakshitvahi/ProjectManagement-InternSpace)**
-
+- <p align="center">
+    <a href="https://github.com/Rakshitvahi/ProjectManagement-InternSpace" target="_blank">
+      <img src="https://img.shields.io/badge/Repository-View%20Code-blue?style=for-the-badge&logo=github" alt="Intern Space Repo">
+    </a>
+  </p>
 ---
 
 ### **Mentor Wise**

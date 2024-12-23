@@ -21,45 +21,48 @@
   </a>
 </p>
 
----
-## 🚀 **Projects**
-- **Java Repository**  
-  *Technologies*: Java, Data Structures, Algorithms  
-  A collection of coding challenges and problems solved to improve problem-solving skills.  
-  [![View Project](https://img.shields.io/badge/Repository-View%20Project-blue?style=for-the-badge&logo=github)](https://github.com/Rakshitvahi/Java)
+## 🛠️ **Skills**
 
----
+### **Software Development, Testing & CI/CD**
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Lang">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework">
+  <img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs">
+  <img src="https://img.shields.io/badge/SOAP-484848?style=for-the-badge&logo=soap&logoColor=white" alt="SOAP APIs">
+  <img src="https://img.shields.io/badge/JPA%20(Hibernate)-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle">
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
-- **Patient Management System**  
-  *Technologies*: Spring Boot, Java, Maven, H2 Database  
-  A CRUD application to manage patient records with endpoints for creating, reading, updating, and deleting data.  
-  [![View Project](https://img.shields.io/badge/Repository-View%20Project-blue?style=for-the-badge&logo=github)](https://github.com/Rakshitvahi/PatientManagement)
+### **Cloud & Containerization**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+</p>
 
----
+### **Databases**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+</p>
 
-- **Data Mining Project**  
-  *Technologies*: Python, Data Mining  
-  Used clustering, classification, and association rules to uncover insights in large datasets.
+### **Agile Product Development & Methodologies**
+<p>
+  <img src="https://img.shields.io/badge/Scrum-4A154B?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum">
+  <img src="https://img.shields.io/badge/Kanban-008577?style=for-the-badge&logo=kanban&logoColor=white" alt="Kanban">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence">
+</p>
 
----
-
-- **Depression Dataset Visualization**  
-  *Technologies*: Python, Tableau  
-  Interactive dashboards, violin plots, and time-series analysis to visualize depression datasets.
-
----
-
-- **InternSpace**  
-  *Technologies*: MS Project, Excel, Budgeting  
-  Developed a project plan with Gantt charts, WBS, and resource budgeting.
-
----
-
-- **Mentor Wise**  
-  *Technologies*: Figma, Product Management  
-  Conducted market research, developed PRDs, and created interactive prototypes.
-
----
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=RakshitVahi" alt="Visitors">

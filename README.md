@@ -23,7 +23,8 @@
 
 ---
 ## 🚀 **Projects**
-### **Java Repository:** Java, Problem Solving, Data Structures and Algorithms  
+### **Java Repository:** 
+Java, Problem Solving, Data Structures and Algorithms  
 **📖 Description**:  
 A collection of coding challenges and problems solved in Java to improve problem-solving and programming skills.
 <p>
@@ -31,7 +32,7 @@ A collection of coding challenges and problems solved in Java to improve problem
     <img src="https://img.shields.io/badge/Repository-View%20Project-blue?style=for-the-badge&logo=github" alt="Java Repo">
   </a>
 </p>
----
+
 ### **Patient Management System:** Spring Boot 3.4.0, Java 23, Maven, Spring Web, Spring Data JPA, H2 Database,  
 **📖 Description**:  
   The Patient Management System is a basic CRUD application for managing patient records, providing endpoints for creating, reading, updating, and deleting data. It uses an in-memory H2 database for development and testing, with an accessible web console for debugging.
@@ -40,7 +41,7 @@ A collection of coding challenges and problems solved in Java to improve problem
       <img src="https://img.shields.io/badge/Repository-View%20Project-blue?style=for-the-badge&logo=github" alt="Java Repo">
     </a>
   </p>
----
+
 ### **Data Mining Project**
 - **🛠️ Technology**: Python, Data Mining Techniques  
 - **📖 Description**:  
@@ -50,7 +51,7 @@ A collection of coding challenges and problems solved in Java to improve problem
       <img src="https://img.shields.io/badge/Repository-View%20Code-blue?style=for-the-badge&logo=github" alt="Data Mining Repo">
     </a> -->
   </p>
----
+
 ### **Depression Dataset Visualization**
 - **🛠️ Technology**: Python, Tableau  
 - **📖 Description**:  
@@ -60,7 +61,7 @@ A collection of coding challenges and problems solved in Java to improve problem
       <img src="https://img.shields.io/badge/Repository-View%20Code-blue?style=for-the-badge&logo=github" alt="Depression Visualization Repo">
     </a> -->
   </p>
----
+
 ### **Project Management: InternSpace**
 🛠️ Web Apps Development expertise | MS Project | Excel | Budgeting   
 - **📖 Description**: Created a comprehensive project plan, including Gantt charts, WBS, and budgeting.  
@@ -69,7 +70,7 @@ A collection of coding challenges and problems solved in Java to improve problem
       <img src="https://img.shields.io/badge/Repository-View%20Code-blue?style=for-the-badge&logo=github" alt="Intern Space Repo">
     </a> -->
   </p>
----
+
 ### **Mentor Wise**
 - **🛠️ Technology**: Figma, Product Management  
 - **📖 Description**: Conducted market research and developed product requirement documents. Created interactive prototypes.  

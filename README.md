@@ -23,19 +23,17 @@
 
 ---
 ## 🚀 **Projects**
-### **Java Repository**
-- Java, Problem Solving, Data Structures and Algorithms  
-- **📖 Description**:  
-  A collection of coding challenges and problems solved in Java to improve problem-solving and programming skills.
-  <p>
-    <a href="https://github.com/Rakshitvahi/Java" target="_blank">
-      <img src="https://img.shields.io/badge/Repository-View%20Project-blue?style=for-the-badge&logo=github" alt="Java Repo">
-    </a>
-  </p>
+### **Java Repository:** Java, Problem Solving, Data Structures and Algorithms  
+**📖 Description**:  
+A collection of coding challenges and problems solved in Java to improve problem-solving and programming skills.
+<p>
+  <a href="https://github.com/Rakshitvahi/Java" target="_blank">
+    <img src="https://img.shields.io/badge/Repository-View%20Project-blue?style=for-the-badge&logo=github" alt="Java Repo">
+  </a>
+</p>
 ---
-### **Patient Management System**
-- Spring Boot 3.4.0, Java 23, Maven, Spring Web, Spring Data JPA, H2 Database,  
-- **📖 Description**:  
+### **Patient Management System:** Spring Boot 3.4.0, Java 23, Maven, Spring Web, Spring Data JPA, H2 Database,  
+**📖 Description**:  
   The Patient Management System is a basic CRUD application for managing patient records, providing endpoints for creating, reading, updating, and deleting data. It uses an in-memory H2 database for development and testing, with an accessible web console for debugging.
   <p>
     <a href="https://github.com/Rakshitvahi/PatientManagement" target="_blank">

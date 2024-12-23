@@ -23,63 +23,45 @@
 
 ---
 ## 🚀 **Projects**
-### **Java Repository:** 
-Java, Problem Solving, Data Structures and Algorithms  
-**📖 Description**:  
-A collection of coding challenges and problems solved in Java to improve problem-solving and programming skills.
-<p>
-  <a href="https://github.com/Rakshitvahi/Java" target="_blank">
-    <img src="https://img.shields.io/badge/Repository-View%20Project-blue?style=for-the-badge&logo=github" alt="Java Repo">
-  </a>
-</p>
+- **Java Repository**  
+  *Technologies*: Java, Data Structures, Algorithms  
+  A collection of coding challenges and problems solved to improve problem-solving skills.  
+  [![View Project](https://img.shields.io/badge/Repository-View%20Project-blue?style=for-the-badge&logo=github)](https://github.com/Rakshitvahi/Java)
 
-### **Patient Management System:** Spring Boot 3.4.0, Java 23, Maven, Spring Web, Spring Data JPA, H2 Database,  
-**📖 Description**:  
-  The Patient Management System is a basic CRUD application for managing patient records, providing endpoints for creating, reading, updating, and deleting data. It uses an in-memory H2 database for development and testing, with an accessible web console for debugging.
-  <p>
-    <a href="https://github.com/Rakshitvahi/PatientManagement" target="_blank">
-      <img src="https://img.shields.io/badge/Repository-View%20Project-blue?style=for-the-badge&logo=github" alt="Java Repo">
-    </a>
-  </p>
-
-### **Data Mining Project**
-- **🛠️ Technology**: Python, Data Mining Techniques  
-- **📖 Description**:  
-  Implemented data mining methodologies to analyze large datasets, uncovering insights through clustering, classification, and association rules.  
-  <p>
-    <!-- <a href="https://github.com/RakshitVahi/DataMiningProject" target="_blank">
-      <img src="https://img.shields.io/badge/Repository-View%20Code-blue?style=for-the-badge&logo=github" alt="Data Mining Repo">
-    </a> -->
-  </p>
-
-### **Depression Dataset Visualization**
-- **🛠️ Technology**: Python, Tableau  
-- **📖 Description**:  
-  Visualized depression datasets using interactive dashboards, violin plots, and time-series analysis for actionable insights.  
-   <p>
-    <!-- <a href="https://github.com/RakshitVahi/DepressionVisualization" target="_blank">
-      <img src="https://img.shields.io/badge/Repository-View%20Code-blue?style=for-the-badge&logo=github" alt="Depression Visualization Repo">
-    </a> -->
-  </p>
-
-### **Project Management: InternSpace**
-🛠️ Web Apps Development expertise | MS Project | Excel | Budgeting   
-- **📖 Description**: Created a comprehensive project plan, including Gantt charts, WBS, and budgeting.  
-  <p>
-    <!-- <a href="https://github.com/Rakshitvahi/ProjectManagement-InternSpace" target="_blank">
-      <img src="https://img.shields.io/badge/Repository-View%20Code-blue?style=for-the-badge&logo=github" alt="Intern Space Repo">
-    </a> -->
-  </p>
-
-### **Mentor Wise**
-- **🛠️ Technology**: Figma, Product Management  
-- **📖 Description**: Conducted market research and developed product requirement documents. Created interactive prototypes.  
-  <p>
-    <!-- <a href="https://github.com/Rakshitvahi/ProjectManagement-InternSpace" target="_blank">
-      <img src="https://img.shields.io/badge/Repository-View%20Code-blue?style=for-the-badge&logo=github" alt="Intern Space Repo">
-    </a> -->
-  </p>
 ---
+
+- **Patient Management System**  
+  *Technologies*: Spring Boot, Java, Maven, H2 Database  
+  A CRUD application to manage patient records with endpoints for creating, reading, updating, and deleting data.  
+  [![View Project](https://img.shields.io/badge/Repository-View%20Project-blue?style=for-the-badge&logo=github)](https://github.com/Rakshitvahi/PatientManagement)
+
+---
+
+- **Data Mining Project**  
+  *Technologies*: Python, Data Mining  
+  Used clustering, classification, and association rules to uncover insights in large datasets.
+
+---
+
+- **Depression Dataset Visualization**  
+  *Technologies*: Python, Tableau  
+  Interactive dashboards, violin plots, and time-series analysis to visualize depression datasets.
+
+---
+
+- **InternSpace**  
+  *Technologies*: MS Project, Excel, Budgeting  
+  Developed a project plan with Gantt charts, WBS, and resource budgeting.
+
+---
+
+- **Mentor Wise**  
+  *Technologies*: Figma, Product Management  
+  Conducted market research, developed PRDs, and created interactive prototypes.
+
+---
+
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=RakshitVahi" alt="Visitors">
 </p>
+

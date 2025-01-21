@@ -4,7 +4,7 @@
 
 ---
 
-## 📞 **Contact Me**
+## **Contact Me**
 
 <p align="center">
   <a href="https://rakshitvahi.github.io/portfolio-website/" target="_blank">
